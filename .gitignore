@@ -1,0 +1,23 @@
+# Ruby/Sinatra
+/.bundle/
+/vendor/bundle/
+/*.gem
+Gemfile.lock
+
+# Environment files
+.env
+.env.local
+
+# Logs and temp
+*.log
+tmp/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Node modules (if used)
+node_modules/
