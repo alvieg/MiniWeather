@@ -2,7 +2,6 @@
 /.bundle/
 /vendor/bundle/
 /*.gem
-Gemfile.lock
 
 # Environment files
 .env
