@@ -7,3 +7,5 @@ gem "httparty"
 gem "dotenv"
 
 ruby "3.4.5"
+
+gem "rack", "~> 3.2"

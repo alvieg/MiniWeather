@@ -51,6 +51,7 @@ DEPENDENCIES
   dotenv
   httparty
   puma
+  rack (~> 3.2)
   sinatra
   sinatra-contrib
 
